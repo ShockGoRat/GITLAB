@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-printf("world");
+printf("world namek");
 }
